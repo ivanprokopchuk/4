@@ -1,2 +1,3 @@
 
-# The Game (details coming soon)
+# The Game
+## details coming soon
